@@ -1,0 +1,38 @@
+p.red {color: red;
+}
+
+p.blue {color: blue;
+}
+
+p.green {color: green;
+}
+
+p.big {font-size: 2.5em;
+}
+
+p.tiny {font-size: xx-small;
+}
+
+p.centered {text-align: center;
+}
+
+p.bold {font-weight: bold;
+}
+
+p.font {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.multi {
+    font-size: x-large;
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p.styledFont {font-family: monospace;
+}
+
+img {
+    border-style: dashed;
+    border-width: 10px;
+    border-color: yellow;
+}

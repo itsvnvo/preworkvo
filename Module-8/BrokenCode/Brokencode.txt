@@ -1,0 +1,5 @@
+Missing quotations in variety of areas
+Colors being labeled wrong
+No h tag on the heading
+missing l tag on the list
+missing <> on img
